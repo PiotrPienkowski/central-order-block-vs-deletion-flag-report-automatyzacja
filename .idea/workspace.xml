@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c9e5c0f-0593-41a8-bfe3-928652162cf1" name="Changes" comment="" />
+    <list default="true" id="2c9e5c0f-0593-41a8-bfe3-928652162cf1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/central order block vs delf automatyzacja.py" beforeDir="false" afterPath="$PROJECT_DIR$/central order block vs delf automatyzacja.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +30,7 @@
 }]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "git@github.com:PiotrPienkowski/central-order-bllock-vs-delf-de-automation-.git",
+    "url": "git@github.com:PiotrPienkowski/central-order-block-vs-delf-de-automation.git",
     "accountId": "fa2dcc9a-4028-4bec-b62d-0c134ded7edc"
   }
 }]]></component>
