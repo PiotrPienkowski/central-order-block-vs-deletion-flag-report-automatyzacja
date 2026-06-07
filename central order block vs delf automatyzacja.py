@@ -12,4 +12,4 @@ df['Colection_Team'] = ""
 day = dt.date.today().strftime("%Y-%m-%d")
 
 df.to_excel(r'C:\Users\02703821\Elanco\CS-SD-DB Exchange - General\DE\\' + day + '.xlsx' , index = False)
-
+#
