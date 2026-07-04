@@ -58,3 +58,4 @@ mail.subject = rf"Central Order Block vs delf de {today}"
 mail.body = f"""Hallo All.\n Please find central order block vs delf de {link_dla_zespolow} \n please mark x and let me know when done so that I could set deletion flag"""
 mail.Display()
 
+##
